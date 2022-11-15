@@ -1,0 +1,4 @@
+//database project
+
+1.use MySQL, JDBC, Java to implement student enroll system
+2.connect to SQLyog or MySQL Workbech and show the database on these two software system
