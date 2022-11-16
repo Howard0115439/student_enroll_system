@@ -1,5 +1,3 @@
-//reference:https://www.youtube.com/watch?v=5vzCjvUwMXg
-
 import java.util.*;
 import java.sql.*;
 
